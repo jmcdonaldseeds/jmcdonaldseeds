@@ -1,39 +1,83 @@
-<h1>Hi, I'm Justin! <br/> 
-  <a href="https://www.linkedin.com/in/-justinmcdonald/">Information Technology & Informatics Student @ Rutgers</a>
-</h1>
+<h1 align="center">Hi, I'm Justin 👋<br/>Information Technology & Informatics Student @ Rutgers</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/-justinmcdonald/">LinkedIn</a> •
+  <a href="mailto:justmcdonald03@gmail.com">Email</a> •
+  <a href="https://github.com/justmcdonald03">GitHub</a>
+</p>
 
-<ul>
-  <li><b>NYC Citi Bike Trip Duration Prediction</b><br/>
-    <a href="https://github.com/yourusername/citi-bike-prediction">Built a multiple linear regression model using engineered time and location features to predict trip duration. Improved accuracy by 22% over a naive baseline. (Python, pandas, scikit-learn)</a>
-  </li>
-  <li><b>Streaming Engagement vs. Popularity</b><br/>
-    <a href="https://github.com/yourusername/apple-music-analysis">Analyzed personal Apple Music data along with Spotify API and Billboard charts. Used logistic regression and permutation testing to explore how song length impacts listener engagement. (R, dplyr, ggplot2, infer)</a>
-  </li>
-  <li><b>Amazon Web Scraper</b><br/>
-    <a href="https://github.com/yourusername/amazon-scraper">Developed a custom Python script to scrape Amazon product listings and prices for trend analysis. (Python, BeautifulSoup, Requests)</a>
-  </li>
-</ul>
+---
 
-<h2>📚 Coursework Highlights:</h2>
+## 💼 About Me
 
-<ul>
-  <li><b>Statistical Inference (Stat295)</b>: Hypothesis testing, bootstrapping, regression using R and infer</li>
-  <li><b>Object-Oriented Programming (Python)</b>: Data cleaning and analysis of movie data with Pandas</li>
-  <li><b>Database Design</b>: SQL, normalization, surrogate keys, and anomaly prevention using real-world datasets</li>
-</ul>
+I'm a senior at Rutgers University pursuing a B.A. in Information Technology & Informatics with minors in Data Science and Labor Studies. I’m passionate about solving real-world problems through data, automation, and cloud technologies. I'm currently pursuing certifications in AWS and Security+ while preparing for competitive data, cybersecurity, and cloud roles in 2025.
 
-<h2>🎯 Certifications:</h2>
-<ul>
-  <li>Google IT Support Professional Certificate (Coursera, 2024)</li>
-  <li>Google Cybersecurity Professional Certificate (Coursera, 2024)</li>
-  <li><i>Pursuing</i> AWS Solutions Architect Associate</li>
-  <li><i>Pursuing</i> CompTIA Security+</li>
-</ul>
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🚀 Featured Projects
 
-<a href="https://www.linkedin.com/in/-justinmcdonald/" target="_blank">
-  <img alt="JustinMcDonald | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### 📍 [Citi Bike Trip Duration Prediction](https://github.com/justmcdonald03/citi-bike-prediction)
+**Course:** *Statistical Inference (Stat295)*  
+- Built a multiple linear regression model on 50,000+ NYC Citi Bike rides  
+- Engineered time-based and location-based features  
+- Reduced prediction error by 22% vs. naive baseline  
+- Visualized residuals and created demand heatmaps (Python, `pandas`, `scikit-learn`, `matplotlib`)
+
+---
+
+### 🎵 [Streaming Engagement vs. Popularity](https://github.com/justmcdonald03/apple-music-analysis)
+**Course:** *Data Ethics & Policy* (Independent Research)  
+- Extracted personal Apple Music data and integrated with Spotify & Billboard APIs  
+- Used logistic regression + permutation testing to assess listener behavior  
+- Found shorter songs more likely to be completed, revealing a shift in industry incentives  
+- (R, `ggplot2`, `dplyr`, `infer`)
+
+---
+
+### 🛒 [Amazon Price Tracker (Web Scraping Project)](https://github.com/justmcdonald03/amazon-scraper)
+**Personal Project**  
+- Built a Python scraper to monitor Amazon prices for specific keywords and product pages  
+- Extracted, logged, and visualized pricing patterns over time  
+- Practiced API timing, `requests`, and `BeautifulSoup` usage
+
+---
+
+## 📚 Coursework + Applied Projects
+
+| Course | Focus | Related Project |
+|--------|-------|-----------------|
+| **Statistical Inference (Stat295)** | Bootstrapping, hypothesis testing, regression | [Citi Bike ML Project](https://github.com/justmcdonald03/citi-bike-prediction) |
+| **Object-Oriented Programming** | Python, OOP, data analysis | [Movie Data Cleaning + Analysis](https://github.com/justmcdonald03/movie-data-cleaning) |
+| **Database Design** | ER diagrams, SQL, normalization | [Team-State Population Dependency Project](https://github.com/justmcdonald03/team-state-db) |
+| **Cybersecurity Foundations** | Network security, access control | [TryHackMe Lab Logs](https://github.com/justmcdonald03/thm-labs) *(in progress)* |
+| **Information Visualization** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
+
+---
+
+## 📜 Certifications
+
+- ✅ Google IT Support Professional Certificate (2024)  
+- ✅ Google Cybersecurity Professional Certificate (2024)  
+- 🔄 **Pursuing:** AWS Solutions Architect Associate  
+- 🔄 **Pursuing:** CompTIA Security+
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** Python, R, SQL, HTML/CSS, JavaScript  
+**Libraries:** `pandas`, `scikit-learn`, `ggplot2`, `dplyr`, `matplotlib`, `infer`  
+**Tools:** Git, GitHub, Power BI, Tableau, Jupyter, RStudio  
+**Platforms:** AWS (in progress), GCP (beginner), TryHackMe, Windows, Linux
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 [Email](mailto:justmcdonald03@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/-justinmcdonald/)  
+- 🌐 [GitHub](https://github.com/justmcdonald03)
+
+---
+
+<p align="center"><i>“Always learning. Always shipping.”</i></p>

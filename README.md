@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I'm a senior at Rutgers University pursuing a B.A. in Information Technology & Informatics with minors in Data Science and Labor Studies. I’m passionate about solving real-world problems through data, automation, and cloud technologies. I'm currently pursuing certifications in AWS and Security+ while preparing for competitive data, cybersecurity, and cloud roles in 2025.
+I'm a senior at Rutgers University pursuing a B.A. in Information Technology & Informatics with a Data Analysis focus. I’m passionate about solving real-world problems through data, automation, and cloud technologies. I'm currently pursuing certifications in AWS and Security+ while preparing for competitive data, cybersecurity, and cloud roles in 2025.
 
 ---
 
@@ -26,19 +26,11 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 ---
 
 ### 🎵 [Streaming Engagement vs. Popularity](https://github.com/justmcdonald03/apple-music-analysis)
-**Course:** *Data Ethics & Policy* (Independent Research)  
+**Personal Project**   
 - Extracted personal Apple Music data and integrated with Spotify & Billboard APIs  
 - Used logistic regression + permutation testing to assess listener behavior  
 - Found shorter songs more likely to be completed, revealing a shift in industry incentives  
 - (R, `ggplot2`, `dplyr`, `infer`)
-
----
-
-### 🛒 [Amazon Price Tracker (Web Scraping Project)](https://github.com/justmcdonald03/amazon-scraper)
-**Personal Project**  
-- Built a Python scraper to monitor Amazon prices for specific keywords and product pages  
-- Extracted, logged, and visualized pricing patterns over time  
-- Practiced API timing, `requests`, and `BeautifulSoup` usage
 
 ---
 

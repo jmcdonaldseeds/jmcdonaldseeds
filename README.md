@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Justin 👋<br/>Information Technology & Informatics Student @ Rutgers</h1>
+<h1 align="center">Hi, I'm Justin McDonald! <br/>Information Technology & Informatics Student @ Rutgers</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-justinmcdonald/">LinkedIn</a> •

@@ -26,7 +26,7 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 ---
 
 ### 🎵 [Streaming Engagement vs. Popularity](https://github.com/justmcdonald03/apple-music-analysis)
-**Personal Project**   
+**Course:** *Data Wrangling w/ R* (Independent Research)  
 - Extracted personal Apple Music data and integrated with Spotify & Billboard APIs  
 - Used logistic regression + permutation testing to assess listener behavior  
 - Found shorter songs more likely to be completed, revealing a shift in industry incentives  
@@ -34,9 +34,17 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 
 ---
 
+### 🛒 [Amazon Price Tracker (Web Scraping Project)](https://github.com/justmcdonald03/amazon-scraper)
+**Personal Project**  
+- Built a Python scraper to monitor Amazon prices for specific keywords and product pages  
+- Extracted, logged, and visualized pricing patterns over time  
+- Practiced API timing, `requests`, and `BeautifulSoup` usage
+
+---
+
 ## 📚 Coursework + Applied Projects
 
-| Course | Focus | Related Project |
+| Course | Focus | Projects |
 |--------|-------|-----------------|
 | **Statistical Inference (Stat295)** | Bootstrapping, hypothesis testing, regression | [Citi Bike ML Project](https://github.com/justmcdonald03/citi-bike-prediction) |
 | **Object-Oriented Programming** | Python, OOP, data analysis | [Movie Data Cleaning + Analysis](https://github.com/justmcdonald03/movie-data-cleaning) |
@@ -72,4 +80,4 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 
 ---
 
-<p align="center"><i>“Always learning. Always shipping.”</i></p>
+<p align="center"><i>“Learn. Apply. Evolve.”</i></p>

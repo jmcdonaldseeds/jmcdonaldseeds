@@ -16,8 +16,8 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 
 ## 🚀 Featured Projects
 
-### 📍 [Citi Bike Trip Duration Prediction](https://github.com/justmcdonald03/citi-bike-prediction)
-**Course:** *Statistical Inference (Stat295)*  
+### 📍 [Citi Bike Trip Duration Prediction](https://github.com/jmcdonaldseeds/citi-bike-prediction)
+**Course:** *Data 101 (Independent Research)*  
 - Built a multiple linear regression model on 50,000+ NYC Citi Bike rides  
 - Engineered time-based and location-based features  
 - Reduced prediction error by 22% vs. naive baseline  

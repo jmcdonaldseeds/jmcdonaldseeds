@@ -20,7 +20,7 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 **Course:** *Data 101 (Independent Research)*  
 - Built a multiple linear regression model on 50,000+ NYC Citi Bike rides  
 - Engineered time-based and location-based features  
-- Reduced prediction error by 22% vs. naive baseline  
+- Reduced prediction error by 28% vs. naive baseline  
 - Visualized residuals and created demand heatmaps (Python, `pandas`, `scikit-learn`, `matplotlib`)
 
 ---

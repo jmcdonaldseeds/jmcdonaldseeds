@@ -25,15 +25,6 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 
 ---
 
-### 🎵 [Streaming Engagement vs. Popularity](https://github.com/jmcdonaldseeds/apple-music-analysis)
-**Course:** *Data Wrangling w/ R* (Independent Research)  
-- Extracted personal Apple Music data and integrated with Spotify & Billboard APIs  
-- Used logistic regression + permutation testing to assess listener behavior  
-- Found shorter songs more likely to be completed, revealing a shift in industry incentives  
-- (R, `ggplot2`, `dplyr`, `infer`)
-
----
-
 ## 📚 Coursework + Applied Projects
 
 | Course | Focus | Projects |

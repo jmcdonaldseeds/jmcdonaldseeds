@@ -34,14 +34,6 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 
 ---
 
-### 🛒 [Amazon Price Tracker (Web Scraping Project)](https://github.com/justmcdonald03/amazon-scraper)
-**Personal Project**  
-- Developed a Python-based tool to scrape and track Amazon product prices over time using keyword-based and direct URL search.
-- Implemented rate-limiting, error handling, and dynamic headers to comply with scraping best practices.
-- Logged time-series price data to CSV and visualized trends using Matplotlib.
-
----
-
 ## 📚 Coursework + Applied Projects
 
 | Course | Focus | Projects |

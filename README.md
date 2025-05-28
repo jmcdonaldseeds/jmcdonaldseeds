@@ -42,7 +42,7 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 | **Object-Oriented Programming** | Python, OOP, data analysis | [Movie Data Cleaning + Analysis](https://github.com/justmcdonald03/movie-data-cleaning) |
 | **Management of Technological Organizations** | Sociotechnical design, UML modeling, communication | [Team-State Population Dependency Project](https://github.com/justmcdonald03/team-state-db) |
 | **Data Analytics for Information Professionals** | Network security, access control | [TryHackMe Lab Logs](https://github.com/justmcdonald03/thm-labs) *(in progress)* |
-| **Information Visualization** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
+| **Information Visualization** | Dashboards, exploratory charts | [Data Visualization](https://github.com/justmcdonald03/data-visualization) |
 | **Web Design** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
 | **Social Informatics** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
 | **Database Technologies** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |

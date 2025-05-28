@@ -38,11 +38,16 @@ I'm a senior at Rutgers University pursuing a B.A. in Information Technology & I
 
 | Course | Focus | Projects |
 |--------|-------|-----------------|
-| **Statistical Inference (Stat295)** | Bootstrapping, hypothesis testing, regression | [Citi Bike ML Project](https://github.com/justmcdonald03/citi-bike-prediction) |
+| **Information Technology Fundamentals** | Computer systems, Linux, SQL, basic programming | [Citi Bike ML Project](https://github.com/justmcdonald03/citi-bike-prediction) |
 | **Object-Oriented Programming** | Python, OOP, data analysis | [Movie Data Cleaning + Analysis](https://github.com/justmcdonald03/movie-data-cleaning) |
-| **Database Design** | ER diagrams, SQL, normalization | [Team-State Population Dependency Project](https://github.com/justmcdonald03/team-state-db) |
-| **Cybersecurity Foundations** | Network security, access control | [TryHackMe Lab Logs](https://github.com/justmcdonald03/thm-labs) *(in progress)* |
+| **Management of Technological Organizations** | Sociotechnical design, UML modeling, communication | [Team-State Population Dependency Project](https://github.com/justmcdonald03/team-state-db) |
+| **Data Analytics for Information Professionals** | Network security, access control | [TryHackMe Lab Logs](https://github.com/justmcdonald03/thm-labs) *(in progress)* |
 | **Information Visualization** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
+| **Web Design** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
+| **Social Informatics** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
+| **Database Technologies** | Dashboards, exploratory charts | *In progress — Power BI demo coming soon* |
+
+Network security, access control | [TryHackMe Lab Logs](https://github.com/justmcdonald03/thm-labs) *(in progress)* |
 
 ---
 
